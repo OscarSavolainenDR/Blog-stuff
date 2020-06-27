@@ -1,4 +1,5 @@
 function [pop] = population_change(t,figure_cutoff)
+    % Last edit: 27/06/2020; Oscar Savolainen.
     % A function estimating the size of the human population at each year from today (2020) into the future.
     % This is based on an extrapolation of growth trends from Worldmeter estimates: approximate 13% reduction in
     % growth every 5 years. This function assumes year-on-year growth reduces by 2.46% every year (5th root of 13%),
