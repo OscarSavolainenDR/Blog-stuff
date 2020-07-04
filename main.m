@@ -1,6 +1,11 @@
 %% VR Hypothesis script
 
-%  Last edit: 27/06/2020; Oscar Savolainen.
+
+% Last edit: 04/07/2020; Oscar Savolainen.
+
+% Sctipt for calculating a preliminary lower bound on our probability of being in a VR.
+% It is based on the blog post @ 
+% Code is available online @ https://github.com/OscarSavolainen/VR-Hypothesis.
 
 close all
 clearvars
@@ -27,7 +32,7 @@ ylabel(['Estimated probability of',newline,'humanity surviving past year {\itt}'
 
 
 %% Human population over time
-population = population_change(t,figure_cutoff);
+population = population_change_UN_median_prediction(t,figure_cutoff);
 xlabel('Time (years)')
 ylabel('Estimated popuation')
 xlim([0 figure_cutoff])
