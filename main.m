@@ -4,7 +4,7 @@
 % Last edit: 04/07/2020; Oscar Savolainen.
 
 % Sctipt for calculating a preliminary lower bound on our probability of being in a VR.
-% It is based on the blog post @ 
+% It is based on the blog post @ https://oscarsavolainen.wordpress.com/2020/07/07/the-virtual-reality-hypothesis/
 % Code is available online @ https://github.com/OscarSavolainen/VR-Hypothesis.
 
 close all
