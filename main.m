@@ -7,6 +7,11 @@
 % It is based on the blog post @ https://oscarsavolainen.wordpress.com/2020/07/07/the-virtual-reality-hypothesis/
 % Code is available online @ https://github.com/OscarSavolainen/VR-Hypothesis.
 
+% To do:
+% - Add safety check to make sure all inputted parameters are within allowed specs, e.g. value_at_which_survival_stabilises within 0 and 1,
+%   t_exp_BL > WL, spend_VR_percentage within 0 and 1, etc.
+% - Simplify calculations to enable larger values of humanity_integral_limit (a.k.a. y)
+
 close all
 clearvars
 show_figures = 1;
