@@ -1,5 +1,5 @@
 # VR-Hypothesis
-Basic summary: some code to calculate how likely we are to be in a Virtual Reality.
+Basic summary: some code to calculate how likely we are to be in a Virtual Reality, just for fun.
 
 
 This is the code from my blog post on the Virtual Reality Hypothesis: https://oscarsavolainen.wordpress.com/2020/07/07/the-virtual-reality-hypothesis/
