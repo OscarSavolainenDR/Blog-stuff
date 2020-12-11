@@ -8,4 +8,4 @@ A detailed explanation of each of the functions can be found there.
 I share it in case others want to experiment with different input parameters and sub-functions, to try get a more accurate estimate of our/your likelihood of being in a VR.
 There is probably a lot of improvement to be made to the predictive functions, and I think I will be messing with this project for a long time to come.
 
-The code is MATLAB-based, but it is quite simple. I plan to port it to Python at some point in the near future.
+The code is MATLAB-based, but it is quite simple. I plan to port it to Python combined with te blogpost as a Jupyter notebook at some point in the future. That being said, there's always another project :'(
