@@ -1,8 +1,9 @@
 function plot_Spectrogram(matrix, t, f, linear)
 
     % Function that plots a 2D colormap of a 2D array. Useful for plotting
-    % Spectrograms, Wavelet Power Spectrums, and inter-frequency correlation
-    % matrices. 
+    % Spectrograms, Wavelet Power Spectrums, inter-frequency correlation
+    % matrices, etc. In this work, it's used to plot connectivity matrices 
+    % for Memetics.
     %
     % Inputs:
     % - matrix: 2D matrix to be plotted.
