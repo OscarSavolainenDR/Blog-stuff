@@ -15,7 +15,7 @@ Blog post here: [The Virtual Reality Hypothesis](https://oscarsavolainen.wordpre
 <br/>
 
 ### Memetic Theory
-I was doing my PhD in Brain-Machine Interfaces, and similarly got interested by the idea of telepathy. I had this idea it would be a bad thing, since it would make ideas spread quicker, and that isn't necessarilly a good thing. I thought about it a lot and wrote a blog. Again, my only defence is that it was COVID lockdowns, and I had ***way*** too much time on my hands.
+I was doing my PhD in Brain-Machine Interfaces, and similarly got interested by the idea of telepathy. I had this idea it would be a bad thing, since it would make ideas spread quicker, and that isn't necessarilly a good thing. I thought about it a lot, got really into evolutionary memetic theory, and wrote a blog. Again, my only defence is that it was COVID lockdowns, and I had ***way*** too much time on my hands.
 
 Blog post here: [The Cost of Communication](https://oscarsavolainen.wordpress.com/2020/10/18/the-cost-of-communication/)
 
